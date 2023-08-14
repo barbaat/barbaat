@@ -4,7 +4,7 @@ Hola, soy Francisco Javier Barba Trejo. 🙋🏻‍♂️
 
 Soy ingeniero de software 💻 licenciado por la Universidad de Sevilla 🎓. 
 
-Estos años siempre he intentado compaginar la universidad con hacer proyectos por mi cuenta. Me encanta la ingeniería de datos, algo en lo que me gustaría especializarme el día de mañana, y el desarrollo web a nivel full-stack.
+Estos años siempre he intentado compaginar la universidad con hacer proyectos por mi cuenta. Me gusta mucho la ingeniería de datos, algo en lo que me gustaría especializarme el día de mañana, el desarrollo web a nivel full-stack y la dirección y gestión de proyectos.
 
 Soy una persona autodidacta y muy curiosa. Siempre intento investigar la solución por mi cuenta antes de que me la proporcionen. Fomento el trabajo en equipo y siempre intento gestionar el tiempo de la mejor manera posible, priorizando las tareas más importantes como las primeras en ejecutarse.
 
