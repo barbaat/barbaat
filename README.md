@@ -1,18 +1,18 @@
 👋🏼
 
-Hi, I'm Francisco Javier Barba Trejo. 🙋🏻‍♂️
+Hola, soy Francisco Javier Barba Trejo. 🙋🏻‍♂️
 
-I'm a software engineer 💻 graduated from the University of Seville 🎓. 
+Soy ingeniero de software 💻 licenciado por la Universidad de Sevilla 🎓. 
 
-These years I have always tried to combine university with doing projects by my own hand. I love data engineering, something I would like to specialise in tomorrow, and web development at full-stack level.
+Estos años siempre he intentado compaginar la universidad con hacer proyectos por mi cuenta. Me encanta la ingeniería de datos, algo en lo que me gustaría especializarme el día de mañana, y el desarrollo web a nivel full-stack.
 
-I am a self-taught and very curious person. I always try to investigate the solution on my own before it is provided to me. I encourage teamwork and always try to manage time in the best possible way, prioritising more important tasks as the first to be executed.
+Soy una persona autodidacta y muy curiosa. Siempre intento investigar la solución por mi cuenta antes de que me la proporcionen. Fomento el trabajo en equipo y siempre intento gestionar el tiempo de la mejor manera posible, priorizando las tareas más importantes como las primeras en ejecutarse.
 
-Here's a list of the languages I've used the most in my github repositories:
+Aquí tienes una lista de los lenguajes que más he utilizado en mis repositorios de github:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaat&layout=compact)
 
-### My main stack
+### Mis tecnologías preferidas
 
 ![Java](https://img.shields.io/badge/Java-%23F05033.svg?style=for-the-badge&logo=javajdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/SpringBoot-6DA55F?style=for-the-badge&logo=spring&logoColor=white) 
@@ -24,7 +24,7 @@ Here's a list of the languages I've used the most in my github repositories:
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 
-### Commonly used
+### Usado a menudo
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
@@ -33,6 +33,6 @@ Here's a list of the languages I've used the most in my github repositories:
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-### Personal links
+### Links personales
 
 - Linkedin: https://www.linkedin.com/in/fco-jav-barba/
