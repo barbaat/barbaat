@@ -1,38 +1,29 @@
-👋🏼
+<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" height="300" width="3000"/>
+<h1 align="center">Hola, me llamo Francisco Javier Barba Trejo 👋🏼</h1>
+<h3 align="right">Conecta conmigo: <a href="https://www.linkedin.com/in/fco-jav-barba/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="barbaat" height="40" width="40" /></a></h3>
 
-Hola, soy Francisco Javier Barba Trejo. 🙋🏻‍♂️
+- Soy ingeniero de software licenciado por la Universidad de Sevilla 🎓.
 
-Soy ingeniero de software 💻 licenciado por la Universidad de Sevilla 🎓. 
+- Estos años siempre he intentado compaginar la universidad con hacer proyectos por mi cuenta. Me gusta mucho la ingeniería de datos, algo en lo que me gustaría especializarme el día de mañana, el desarrollo web a nivel full-stack y la dirección y gestión de proyectos.
 
-Estos años siempre he intentado compaginar la universidad con hacer proyectos por mi cuenta. Me gusta mucho la ingeniería de datos, algo en lo que me gustaría especializarme el día de mañana, el desarrollo web a nivel full-stack y la dirección y gestión de proyectos.
+- Soy una persona autodidacta y muy curiosa. Siempre intento investigar la solución por mi cuenta antes de que me la proporcionen. Fomento el trabajo en equipo y siempre intento gestionar el tiempo de la mejor manera posible, priorizando las tareas más importantes como las primeras en ejecutarse.
 
-Soy una persona autodidacta y muy curiosa. Siempre intento investigar la solución por mi cuenta antes de que me la proporcionen. Fomento el trabajo en equipo y siempre intento gestionar el tiempo de la mejor manera posible, priorizando las tareas más importantes como las primeras en ejecutarse.
+<div align="center">
+<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
-Aquí tienes una lista de los lenguajes que más he utilizado en mis repositorios de github:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaat&layout=compact)
-
-### Mis tecnologías preferidas
-
-![Java](https://img.shields.io/badge/Java-%23F05033.svg?style=for-the-badge&logo=javajdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/SpringBoot-6DA55F?style=for-the-badge&logo=spring&logoColor=white) 
-![SQL](https://img.shields.io/badge/MySQL-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-
-### Usado a menudo
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white)
-
-
-### Links personales
-
-- Linkedin: https://www.linkedin.com/in/fco-jav-barba/
+  <h3 align="center">Tecnologías que uso:</h3>
+<div align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?fit=800%2C718&ssl=1" alt="spring-boot" width="50" height="50"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" alt="java" width="40" height="50"/> </a>
+  <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="60" height="50"/> </a>
+</p>
+</div>
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbaat&show_icons=true&locale=en&layout=compact" alt="josperrod9" height="150"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=barbaat&show_icons=true&locale=en" alt="josperrod9" height="150" width="350"/></p>
+</div>
