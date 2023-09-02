@@ -1,6 +1,6 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif"/>
 <h1 align="center">Hola, me llamo Francisco Javier Barba Trejo 👋🏼</h1>
-<h3 align="right">Conecta conmigo: <a href="https://www.linkedin.com/in/fco-jav-barba/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="barbaat" height="40" width="40" /></a></h3>
+
 
 - Soy ingeniero de software licenciado por la Universidad de Sevilla 🎓.
 
@@ -8,6 +8,7 @@
 
 - Soy una persona autodidacta y muy curiosa. Siempre intento investigar la solución por mi cuenta antes de que me la proporcionen. Fomento el trabajo en equipo y siempre intento gestionar el tiempo de la mejor manera posible, priorizando las tareas más importantes como las primeras en ejecutarse.
 
+<h3 align="right">Conecta conmigo: <a href="https://www.linkedin.com/in/fco-jav-barba/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="barbaat" height="40" width="40" /></a></h3>
 <div align="center">
 <img align="center" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
