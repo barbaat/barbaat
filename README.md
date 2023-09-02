@@ -1,4 +1,4 @@
-<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" height="300" width="3000"/>
+<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif"/>
 <h1 align="center">Hola, me llamo Francisco Javier Barba Trejo 👋🏼</h1>
 <h3 align="right">Conecta conmigo: <a href="https://www.linkedin.com/in/fco-jav-barba/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="barbaat" height="40" width="40" /></a></h3>
 
