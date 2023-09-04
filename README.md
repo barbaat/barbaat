@@ -2,7 +2,7 @@
 <h1 align="center">Hola, me llamo Francisco Javier Barba Trejo 👋🏼</h1>
 
 
-- Soy ingeniero de software licenciado por la Universidad de Sevilla 🎓.
+- Soy ingeniero de software graduado por la Universidad de Sevilla 🎓.
 
 - Estos años siempre he intentado compaginar la universidad con hacer proyectos por mi cuenta. Me gusta mucho la ingeniería de datos, algo en lo que me gustaría especializarme el día de mañana, el desarrollo web a nivel full-stack y la dirección y gestión de proyectos.
 
