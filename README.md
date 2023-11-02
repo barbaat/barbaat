@@ -1,7 +1,7 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif"/>
 <h1 align="center">Hola, me llamo Francisco Javier Barba Trejo 👋🏼</h1>
 
-<h2 align="center">Antes de nada, puedes conocerme mejor en mi portafolio:<a href="https://www.barbaat.dev/"> barbaat.dev</a></h2>
+<h2 align="center">Antes de nada, puedes conocerme mejor en mi portafolio:<a href="https://www.barbaat.dev/" target="_blank"> barbaat.dev</a></h2>
 
 
 - Soy Ingeniero de Software graduado por la Universidad de Sevilla.
