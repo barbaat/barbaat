@@ -1,8 +1,10 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif"/>
 <h1 align="center">Hola, me llamo Francisco Javier Barba Trejo 👋🏼</h1>
 
+<h2 align="center">Antes de nada, puedes conocerme mejor en mi portafolio:<a href="https://www.barbaat.dev/"> barbaat.dev</a></h2>
 
-- Soy ingeniero de software graduado por la Universidad de Sevilla.
+
+- Soy Ingeniero de Software graduado por la Universidad de Sevilla.
 
 - Estos años siempre he intentado compaginar la universidad con hacer proyectos por mi cuenta. Me gusta mucho la ingeniería de datos, algo en lo que me gustaría especializarme el día de mañana, el desarrollo web a nivel full-stack y la dirección y gestión de proyectos.
 
