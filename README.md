@@ -26,7 +26,3 @@
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="60" height="50"/> </a>
 </p>
 </div>
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbaat&show_icons=true&locale=en&layout=compact" alt="josperrod9" height="150"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=barbaat&show_icons=true&locale=en" alt="josperrod9" height="150" width="350"/></p>
-</div>
