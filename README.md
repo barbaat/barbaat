@@ -1,1 +1,1 @@
-<h1 align="center">Hola, me llamo Francisco Javier Barba Trejo 👋🏼</h1>
+<div align="center">Hola, me llamo Francisco Javier Barba Trejo 👋🏼</div>
